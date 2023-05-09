@@ -51,3 +51,9 @@ También puedes mostrar bloques de código:
 ```python
 def hola_mundo():
     print("Hola, mundo!")
+
+## Cita
+
+> Este es el primer párrafo de la cita.
+>
+> Este es el segundo párrafo de la cita.
