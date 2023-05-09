@@ -51,6 +51,7 @@ También puedes mostrar bloques de código:
 ```python
 def hola_mundo():
     print("Hola, mundo!")
+```
 
 ## Cita
 
